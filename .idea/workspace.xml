@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="370f077d-0b2b-45b8-8c40-f3f43a0330d7" name="Changes" comment="h" />
+    <list default="true" id="370f077d-0b2b-45b8-8c40-f3f43a0330d7" name="Changes" comment="h">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +29,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Amirmasoud/Documents/-Quera_Problem.patch"
+    "last_opened_file_path": "C:/Users/Amirmasoud/IdeaProjects/code-assessment/src/main/java/org/quera/problem",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Amirmasoud\IdeaProjects\code-assessment\src\main\java\org\quera\problem" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.WaterCalculationTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -92,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690443735830</updated>
       <workItem from="1690443737539" duration="574000" />
+      <workItem from="1690444922518" duration="1002000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="h">
       <created>1690443783613</created>
@@ -105,7 +114,13 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
       <updated>1690444304520</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎۰۰۰۰۳" summary="h">
+      <created>1690445119618</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
+      <updated>1690445119618</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
